@@ -17,3 +17,6 @@ Use the package manager maven to install the dependencies.
 ```bash
 mvn clean install 
 ```
+
+## API Documentarion
+http://localhost:8080/v3/api-docs/
